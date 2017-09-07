@@ -12,7 +12,8 @@
       <p>Jesse Cannon Lab 1</p>
    
       <script>
-
+      
+```js
 const teams = [
   {'team' : 'Penguins', 'city' : 'Pittsburgh', 'players' : 30 },
   {'team' : 'Capitals', 'city' : 'Washington', 'players' : 32 },
@@ -20,6 +21,7 @@ const teams = [
 ];
 
 console.table(teams);
+```
 
       </script>
    </body>
